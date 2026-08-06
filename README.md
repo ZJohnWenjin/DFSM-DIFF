@@ -10,7 +10,7 @@ Modify the configuration file at (config.yml) to customize your MRI inputs.
 ## Overview
 
 <p align="center">
-  <img src="figures/framework_overview.pdf"
+  <img src="figures/framework_overview.png"
        alt="Overview of the DFSM-Diff framework"
        width="900">
 </p>
